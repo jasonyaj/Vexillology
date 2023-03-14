@@ -1,0 +1,21 @@
+h2 {
+    background-color: navy;
+    width: 600px;
+    height: 150px;
+    margin: 0;
+}
+
+h3 {
+    background-color: gold;
+    width: 600px;
+    height: 150px;
+    margin: 0;
+}
+
+h4 {
+    background-color: red;
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    translate: 230px -250px;
+}
